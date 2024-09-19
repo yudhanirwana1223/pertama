@@ -3,4 +3,4 @@ Hari Petama Membuat Repositori
 - untuk hari ini saya sedang belajar git
 - dan besok saya belajar javascrpi and python bismilah
 - pokus belajar study inggris
-- dan belajar matematika bismilah
+- pokus belajar js python dan php untuk belajar selanjut nya di Laraver
